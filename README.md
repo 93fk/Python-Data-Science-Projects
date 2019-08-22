@@ -35,3 +35,16 @@ The intention is to find a layout suitable for fast touch typing. It's achieved 
 **Topics**: Web Scraping, visualization, graphs, text processing
 
 * [Project link: Optimal Keyboard Layout](https://github.com/93fk/Optimal_Keyboard_Layout)
+
+
+## Custom Artificial Neural Network
+
+![](https://i.imgur.com/2XVNdXA.png)
+
+**Building functional ANN from scratch!**
+
+A journey to discover the math behind Artificial Neural Networks. You get a completely different perspective on challenges regarding the ANN when you build everything from the ground up.
+
+**Topics**: ANN, Backpropagation, Gradient Descent, Vector Calculus
+
+* [Project link: Custom Artificial Neural Network](https://github.com/93fk/Custom-ANN)
